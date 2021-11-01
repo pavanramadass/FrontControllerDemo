@@ -1,5 +1,8 @@
 # FrontControllerDemo
 
+Project Gist:
+This is a demo for the Front Controller Design Pattern. The demo is a secret agent game where one can be agent and has to three tries to guess the correct number to kill their target. 
+
 Coding Standards:
 
 1. Position of Braces: top brace must be one-spaced and next to method or class name, bottom brace must be on its own line.
